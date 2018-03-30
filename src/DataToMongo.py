@@ -28,7 +28,7 @@ db.collection_names()
 s = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S');
 print ('开始时间：'+s)
 
-n=500
+n=1000
 count=0
 countx=0
 while n<1000:
